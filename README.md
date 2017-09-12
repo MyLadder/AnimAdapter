@@ -32,6 +32,6 @@ allprojects {
 
 ```
 dependencies {
-	compile 'com.github.frendyxzc:AnimAdapter:0.0.1'
+	compile 'com.github.frendyxzc:AnimAdapter:0.0.2'
 }
 ```
